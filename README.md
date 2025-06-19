@@ -57,15 +57,6 @@ Special Focus  : Data Structures & Algorithms, Machine Learning, Cybersecurity
 ---
 
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhuri2005&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhuri2005&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
----
-
 ### 📫 Connect with Me
 
 <p align="left">
@@ -94,10 +85,4 @@ Special Focus  : Data Structures & Algorithms, Machine Learning, Cybersecurity
 
 ---
 
-### 🏆 Achievements
 
-- 🥇 Certification in **Machine Learning Foundations**
-- 🏅 Recognized for NSS leadership and event coordination
-- 🎖️ Internship offer from **Skill Craft Technologies** – Web Development
-
----
