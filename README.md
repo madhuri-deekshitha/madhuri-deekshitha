@@ -17,7 +17,7 @@ Here are some of the projects I’ve worked on:
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🔐 [Secure SMS Android App (Whisper Send)](https://github.com/madhuri2005/whisper-send) | Encrypts SMS using Caesar, Rail Fence & Playfair ciphers | Java, XML |
+| 🔐 [Secure SMS Android App (Whisper Send)](https://github.com/madhuri-deekshitha/Secure-SMS-App.git) | Encrypts SMS using Caesar, Rail Fence & Playfair ciphers | Java, XML |
 | 🧵 [Fashion Recommendation System](https://github.com/madhuri-deekshitha/Fashion-Recommendation-System-.git) | Recommends outfits using AI & ML models | Python, ML |
 | 🧠 [Brain Seizure Detection](https://github.com/madhuri2005/seizure-detection) | Predicts seizure episodes using data mining | Python, Data Mining |
 | ✈️ [Flight Fare Prediction System](https://github.com/madhuri-deekshitha/Flight-Fare-Prediction.git) | Predicts flight prices based on historical data | Python, Pandas, ML |
