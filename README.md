@@ -5,7 +5,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 6th Semester CSE Student at **NMIT Bangalore**
+- 🎓 7th Semester CSE Student at **NMIT Bangalore**
 - 🧠 Interested in **Web & Android Development**, **Cybersecurity**, and **Machine Learning**
 - 🏅 Head of NSS Club, organizing impactful community service initiatives
 
